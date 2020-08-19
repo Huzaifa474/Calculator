@@ -1,0 +1,85 @@
+body
+{
+    background-color: aqua;
+}
+.main
+{
+    width: 300px;
+    height: 300px;
+    margin: 0px auto;
+    background-color: blueviolet;
+    border-radius: 20px;
+    box-shadow:4px 3px 5px grey;
+    margin-top: 70px;
+
+}
+.result
+{
+    width: 95%;
+    margin-top: 20px;
+    margin-left:5px;
+    border-radius: 10px;
+    border: 2px solid white;
+    box-shadow: 1px 1px 0px black;
+    height: 30px;
+}
+.halfbtn
+{
+    width: 49%;
+    height: 25px;
+    margin-top: 30px;
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+.halfbtn:hover
+{
+    background-color: violet;
+    color: white;
+    border-radius: 10px;
+}
+.btn
+{
+    width:64px;
+    margin-left: 5px;
+    margin-top: 10px;
+    height: 25px;
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.btn:hover
+{
+    background-color: violet;
+    color: white;
+    border-radius: 10px;
+}
+.btn1
+{
+    width:82px;
+    margin-left: 10px;
+    margin-top: 8px;
+    height: 25px;
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.btn1:hover
+{
+    background-color: violet;
+    color: white;
+    border-radius: 10px;
+}
+h1
+{
+    margin-left: 480px;
+    text-shadow: 4px 3px 5px black;
+    font-size: 30px;
+    color: white;
+}
